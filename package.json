@@ -1,6 +1,6 @@
 {
   "name": "autodoc",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "Doc generation on steroids",
   "main": "autodoc-node.js",
   "bin": {
@@ -26,7 +26,7 @@
     "coffee-script": "1.6.1",
     "commander": "2.0.0",
     "doctrine": "git://github.com/dtao/doctrine.git#line-numbers-option",
-    "esprima": "1.0.4",
+    "esprima": "file:..\\..\\..\\AppData\\Local\\Temp\\npm-14952-a7263277\\git-cache-87d2b3b7028b\\146a11e5081e126c58fb4a23cc73e1321711c344",
     "jasmine-node": "1.12.0",
     "lazy.js": "git://github.com/dtao/lazy.js.git",
     "less": "1.6.0",
